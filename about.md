@@ -25,4 +25,5 @@ titles:
   # @end locale config
 key: page-about
 ---
-I am a Mathematics graduate and educator with an interest in applying Statistics to solve problems.
+I am a University of St Andrews Mathematics graduate and educator with an interest in applying Statistics to solve problems.
+Currently based in Bangkok, Thailand.
