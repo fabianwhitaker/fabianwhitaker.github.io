@@ -1,7 +1,7 @@
 @mixin text-light {
   color: $text-color-theme-light;
   h1 {
-    $text-color-h1;
+    color: $text-color-h1;
   }
   h2, h3 {
     color: $text-color-theme-light-d;
@@ -19,7 +19,7 @@
 @mixin text-dark {
   color: $text-color-theme-dark;
   h1 {
-    $text-color-h1;
+    color: $text-color-h1;
   }
   
   h2, h3 {
